@@ -30,7 +30,8 @@ export default function Contact() {
         e.preventDefault();
         setIsSubmitting(true);
         try {
-            const response = await fetch('http://localhost:8080/api/contact', {
+            const API_URL = import.meta.env.PROD ? '' : 'http://localhost:8080';
+            const response = await fetch(`${API_URL}/api/contact`, {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',

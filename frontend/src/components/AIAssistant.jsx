@@ -31,7 +31,7 @@ export default function AIAssistant() {
         setIsLoading(true);
 
         try {
-            const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:8080';
+            const API_URL = import.meta.env.PROD ? '' : 'http://localhost:8080';
             const response = await fetch(`${API_URL}/api/ai`, {
                 method: 'POST',
                 headers: {
