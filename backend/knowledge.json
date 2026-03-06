@@ -1,0 +1,202 @@
+{
+    "profile": {
+        "name": "Harshavardhan Chandragiri",
+        "shortName": "Harsha",
+        "headline": "Full Stack + AI Engineer",
+        "subheading": "Building Intelligent Systems for the AI-First World",
+        "bio": "I am a full-stack developer and AI enthusiast with 1 year of professional experience building real-world, scalable web applications. With hands-on experience in MEAN, MERN, Python, and Java, I craft responsive, user-focused solutions from frontend to backend. My interest in Generative AI and RAG drives me to create intelligent systems that combine LLMs with contextual data.",
+        "tagline": "I don't just build features. I build robust systems.",
+        "experienceYears": 1
+    },
+    "contactAndLinks": {
+        "email": "harsha@example.com",
+        "github": "https://github.com/harshachandragiri",
+        "linkedin": "https://www.linkedin.com/in/harsha-chandragiri-2885a5240",
+        "instagram": "https://www.instagram.com/harsha_.1904",
+        "resumeLink": "https://drive.google.com/file/d/1mhzSCvSujx2gaBgOVdtnrqGHWpJLEet_/view?usp=drivesdk"
+    },
+    "education": [
+        {
+            "period": "2020 - 2024",
+            "degree": "B.Tech - Electronics & Communication Engineering",
+            "institution": "Madanapalle Institute of Technology and Science",
+            "grade": "77% Aggregate",
+            "details": "Gained comprehensive knowledge in electronics, communication systems, and signal processing. Developed strong programming skills in Java, Web Technologies (HTML, CSS, JS, React), and full-stack development through self-learning."
+        },
+        {
+            "period": "2018 - 2020",
+            "degree": "Intermediate Education (MPC)",
+            "institution": "Narayana Junior College",
+            "grade": "90.5% Aggregate"
+        },
+        {
+            "period": "2017 - 2018",
+            "degree": "Secondary School Education (10th)",
+            "institution": "Arogyamatha English Medium School"
+        }
+    ],
+    "skills": {
+        "frontend": [
+            "React",
+            "Angular",
+            "JavaScript",
+            "TypeScript",
+            "HTML5",
+            "CSS3",
+            "Tailwind CSS"
+        ],
+        "backend": [
+            "Node.js",
+            "Express",
+            "Python",
+            "Flask",
+            "FastAPI",
+            "Java"
+        ],
+        "ai": [
+            "LLM Integration",
+            "RAG Pipelines",
+            "Prompt Engineering",
+            "Vector Databases",
+            "AI APIs"
+        ],
+        "databases": [
+            "MongoDB",
+            "PostgreSQL",
+            "Redis",
+            "Schema Design"
+        ],
+        "devops": [
+            "Docker",
+            "Git",
+            "AWS",
+            "Nginx"
+        ]
+    },
+    "projects": [
+        {
+            "title": "AI-Powered Chat Application",
+            "description": "Real-time messaging system with LLM integration, authentication, and role-based access control. Built with WebSocket for live communication and AI-assisted responses.",
+            "techStack": [
+                "React",
+                "Node.js",
+                "MongoDB",
+                "Socket.io",
+                "OpenAI API",
+                "JWT"
+            ]
+        },
+        {
+            "title": "RAG Document Summarization System",
+            "description": "End-to-end RAG pipeline with document chunking, embeddings generation, vector database storage, and intelligent retrieval + LLM-powered summarization.",
+            "techStack": [
+                "Python",
+                "FastAPI",
+                "LangChain",
+                "ChromaDB",
+                "OpenAI",
+                "React"
+            ]
+        },
+        {
+            "title": "E-Commerce Automation System",
+            "description": "Full-scale e-commerce backend with payment gateway integration, notification systems, inventory management, and horizontal scalability architecture.",
+            "techStack": [
+                "Node.js",
+                "Express",
+                "MongoDB",
+                "React",
+                "Razorpay",
+                "Redis"
+            ]
+        },
+        {
+            "title": "Conversational Query SDK",
+            "description": "Intelligent SDK enabling natural language to MongoDB queries, top-k result handling, markdown formatting, and seamless integration into any application.",
+            "techStack": [
+                "Go",
+                "Python",
+                "MongoDB",
+                "OpenAI",
+                "WebSocket",
+                "React"
+            ]
+        },
+        {
+            "title": "Multi-Tenant SaaS Platform",
+            "description": "Enterprise-grade multi-tenant architecture with isolated data, tenant-specific configs, role-based admin dashboards, and automated onboarding workflows.",
+            "techStack": [
+                "React",
+                "Node.js",
+                "Express",
+                "MongoDB",
+                "JWT",
+                "Docker"
+            ]
+        },
+        {
+            "title": "AI Diagram Extraction Pipeline",
+            "description": "Automated pipeline extracting diagrams from PDFs, converting them to Mermaid.js code via LLMs, and building a searchable visual knowledge base.",
+            "techStack": [
+                "Python",
+                "FastAPI",
+                "OpenAI Vision",
+                "Mermaid.js",
+                "MongoDB",
+                "React"
+            ]
+        },
+        {
+            "title": "Intelligent Task Management System",
+            "description": "AI-powered project management tool with smart task prioritization, deadline prediction, workload analysis, and automated standup report generation.",
+            "techStack": [
+                "Angular",
+                "Node.js",
+                "MongoDB",
+                "OpenAI",
+                "Socket.io",
+                "Redis"
+            ]
+        },
+        {
+            "title": "Real-Time Analytics Dashboard",
+            "description": "High-performance analytics platform with live data streaming, custom metric builders, interactive charts, and automated alerting for business KPIs.",
+            "techStack": [
+                "React",
+                "Node.js",
+                "PostgreSQL",
+                "Redis",
+                "WebSocket",
+                "D3.js"
+            ]
+        }
+    ],
+    "developmentFlow": [
+        "Requirement Analysis: Map edge cases before writing code.",
+        "DB Schema Planning: Design normalized schemas for read/write scale.",
+        "API Structure Design: RESTful APIs with OpenAPI specs.",
+        "Authentication: JWT and RBAC.",
+        "AI Integration: LLM orchestration and vector stores.",
+        "Scalability & Deployment: Containerization, CI/CD, and monitoring."
+    ],
+    "ownershipPrinciples": [
+        "Product Thinking: Consider user journeys end-to-end.",
+        "Scalable Engineering: Design for 10x growth from day one.",
+        "Production-Ready: Error handling, logging, graceful degradation.",
+        "Edge Case Handling: Anticipate chaos before incidents occur.",
+        "Security by Design: Secure APIs and encrypt data inherently.",
+        "Clean Modular Design: Separation of concerns."
+    ],
+    "additionalInfo": {
+        "preferences": {},
+        "certifications": [],
+        "hobbies": []
+    },
+    "systemDirectives": [
+        "You are the AI assistant for Harshavardhan's portfolio.",
+        "Answer user questions based ONLY on this knowledge. If the question is entirely unrelated to Harsha, his skills, or his projects, decline to answer and say 'I can only answer questions about Harsha's portfolio and experience.'",
+        "Be concise, professional, and friendly.",
+        "Use formatting like bullet points or bold text where appropriate.",
+        "IMPORTANT: If the user asks about ANY of Harsha's projects, provide a brief answer and ALWAYS include this exact sentence at the end: 'If you want to know more, connect with Harsha! Drop a message in the section below and he will get back to you.'"
+    ]
+}
